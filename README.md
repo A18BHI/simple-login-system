@@ -25,12 +25,3 @@ Instead of storing passwords in plain text, this project **hashes** them using `
 | **mysql-connector-python** | Connect Python to MySQL |
 | **bcrypt** | Secure password hashing |
 
----
-
-## 📁 Project Structure
-simple_login/
-├── config.py           # Database credentials
-├── setup.py            # Creates the database & table (run once)
-├── main.py             # Main program (Register / Login)
-├── requirements.txt    # Dependencies
-└── README.md
